@@ -1,5 +1,5 @@
-# Redis Cache
-Redis Cache with .Net Core 3.1
+# Cache Redis
+Cache Redis with .Net Core 3.1
 
 <h3>Features</h3>
 <ul>
