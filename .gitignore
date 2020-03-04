@@ -3,3 +3,5 @@
 ################################################################################
 
 /DemoCacheRedis/bin/Debug/netcoreapp3.1
+/DemoCacheRedis/obj
+/.vs/DemoCacheRedis
